@@ -20,7 +20,7 @@ var weaponList = ["Cat Skull", "Rubber Chicken", "Shovel", "Hose", "Shotgun"];
 // Choose a random weapon for the player and alert them of the choice
 
 var weapon = weaponList[randomNumber(weaponList.length - 1)];
-alert("Fearing for your life, you quickly search for a weapon. After taking a quick look around you notice and grab a " + weapon + ".");
+alert("Fearing for your life, you quickly search for a weapon. After taking a quick look around you notice and grab a " + weapon + ". When you turn around, a zombie is charging you!");
 
 // Attack and survival function
 
